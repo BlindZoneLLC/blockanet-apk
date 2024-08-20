@@ -11,7 +11,7 @@ Download BlockaNet apk
 **NOTICE: We strongly recommend getting the app from Google Play. Please note that if you are using an apk file from this repository, you will need to first delete the original application downloaded through Google Play, because it is signed by Google.** 
   
 ## Compatibility
-Latest version supports Android 8.0+ (Android APi 26+) and legacy version for Android 5.0+ (Android API 21+). All architectures.
+Latest version supports Android 8.0+ (Android APi 26+) and [legacy](https://github.com/BlindZoneLLC/blockanet-apk/releases/tag/2.10) version for Android 5.0+ (Android API 21+). All architectures.
 
 ## Feedback 
 * Bug reports can be submitted [here](https://github.com/BlindZoneLLC/blockanet-apk/issues).
